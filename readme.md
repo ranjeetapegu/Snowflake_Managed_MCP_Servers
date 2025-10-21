@@ -33,7 +33,7 @@ Before you begin, ensure you have:
 
 2. **Load Sample Data**:
    ```sql
-   -- Load the IMDB dataset using the provided data files
+   -- Download the data file and upload the data into Genai_db.data.imdb_movies table using snowsight  
    -- Create Cortex search and Cortex Analyst 
    ```
 
