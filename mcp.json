@@ -1,0 +1,10 @@
+  {
+     "mcpServers": {
+       "Snowflake-IMDB": {
+         "url": "https://YOUR_ACCOUNT.snowflakecomputing.com/api/v2/databases/genai_db/schemas/data/mcp-servers/imdb_mcp_server",
+         "headers": {
+           "Authorization": "Bearer YOUR_JWT_TOKEN"
+         }
+       }
+     }
+   }
